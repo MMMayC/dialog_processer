@@ -1,0 +1,12 @@
+{
+  "name": "processDialog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MMMayC/dialog_processer.git",
+  "author": "MMMayC",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
