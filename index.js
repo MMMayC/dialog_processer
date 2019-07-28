@@ -1,3 +1,4 @@
+require("dotenv").config();
 const { processDialog } = require("./processDialog");
 
 processDialog("./data/bladerunner_partial.txt", {
